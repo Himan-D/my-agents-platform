@@ -208,11 +208,11 @@
     "drizzle-zod": "^0.8.2",
     "exit-hook": "^4.0.0",
     "find-up": "^7.0.0",
-    "hono": "^4.12.7",
+    "hono": "^4.13.5",
     "iwanthue": "^2.0.0",
     "jmespath": "^0.16.0",
     "jose": "^6.1.0",
-    "nanoid": "^5.0.9",
+    "nanoid": "^5.1.16",
     "pg": "^8.16.3",
     "pino": "^9.11.0",
     "pino-pretty": "^13.1.1",
@@ -245,7 +245,7 @@
     "drizzle-kit": "^0.31.6",
     "tsx": "^4.19.2",
     "typescript": "^6.0.2",
-    "vitest": "^3.2.4"
+    "vitest": "^5.0.2"
   },
   "engines": {
     "node": ">=22.18.0"
